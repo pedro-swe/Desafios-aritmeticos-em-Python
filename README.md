@@ -8,7 +8,7 @@ Os exercícios incluem:
 - Operações aritméticas
 - Entrada e saída de dados
 - Condicionais
-- Estrtuturas de repetição
+- Estrututuras de repetição
   
 🎯Objetivo
 
